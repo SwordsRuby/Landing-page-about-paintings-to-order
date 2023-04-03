@@ -176,7 +176,7 @@ h6 {
 
 .text_and_background_photo_block {
   width: 60%;
-  background: url(/images/photo3.jpg) no-repeat center;
+  background: url(../images/photo3.jpg) no-repeat center;
   background-size: cover;
   display: flex;
 }
